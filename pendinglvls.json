@@ -1,12 +1,21 @@
 {
-  "NAME": "Tutorial How to Fly",
-  "CREATOR": "ItzXewoiy",
-  "ID": "90228700",
-  "ESTS": [{
-    "someone": 56,
-    "me": 70
-  }]
-},
-{
-  "smth":"smth"
+	"LEVELS": [{
+			"NAME": "Tutorial How to Fly",
+			"CREATOR": "ItzXewoiy",
+			"ID": "90228700",
+			"ESTS": [{
+				"someone": 56,
+				"me": 70
+			}]
+		},
+		{
+      "NAME": "Tutorial How to 2",
+			"CREATOR": "ItzXewoiy",
+			"ID": "90228700",
+			"ESTS": [{
+				"someone": 56,
+				"me": 70
+			}]
+    }
+	]
 }
